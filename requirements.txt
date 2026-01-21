@@ -1,0 +1,7 @@
+pandas
+numpy
+langchain-community
+langchain-openai
+langchain-chroma
+sentence-transformers
+gradio
